@@ -10,5 +10,3 @@ print(f'Follow SkyOnTop on Github')
 Languages  :  Python, Js, HTML/CSS
   Discord  :  discord.gg/shikaru
 ```
-
-<a href="https://discord.gg/notsaksh" target="_blank"><img src="https://github.com/SkyOnTop/SkyOnTop/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>

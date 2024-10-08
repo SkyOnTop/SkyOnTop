@@ -7,6 +7,6 @@ print('Follow SkyOnTop on Github')
 ```
 
 ```python
-Languages  :  Python, Js, HTML/CSS
-  Discord  :  $ky#0001 (1052296146778865755)
+Languages  :  Python, Js, C++, C#, HTML/CSS
+  Discord  :  reversesxvm (301754384952590336)
 ```

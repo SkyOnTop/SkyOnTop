@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/SkyOnTop"><img src="https://img.shields.io/github/followers/kzxyo?style=for-the-badge"></img></a>
-  <a href="https://github.com/SkyOnTop"><img src="https://img.shields.io/github/stars/kzxyo?style=for-the-badge"></img></a>
+  <a href="https://github.com/SkyOnTop"><img src="https://img.shields.io/github/followers/SkyOnTop?style=for-the-badge"></img></a>
+  <a href="https://github.com/SkyOnTop"><img src="https://img.shields.io/github/stars/SkyOnTop?style=for-the-badge"></img></a>
 </p>
 
 <p align="center">

@@ -1,11 +1,11 @@
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SkyOnTop" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/SkyOnTop" alt="Profile Forks"></a>
+<p align="center">
+  <a href="https://github.com/SkyOnTop"><img src="https://img.shields.io/github/followers/kzxyo?style=for-the-badge"></img></a>
+  <a href="https://github.com/SkyOnTop"><img src="https://img.shields.io/github/stars/kzxyo?style=for-the-badge"></img></a>
+</p>
 
-```python
-print('Follow SkyOnTop on Github')
-```
+<p align="center">
+  <a href="https://github.com/SkyOnTop"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="https://github.com/SkyOnTop"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+</p>
 
-```python
-Languages  :  Python, Js, C++, C#, HTML/CSS
-  Discord  :  reversesxvm (301754384952590336)
-```
+<p align="center"><img src="https://count.getloli.com/get/@:kzxyo" alt=":SkyOnTop" /></p>

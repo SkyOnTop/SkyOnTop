@@ -8,4 +8,4 @@
   <a href="https://github.com/SkyOnTop"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </p>
 
-<p align="center"><img src="https://count.getloli.com/get/@:kzxyo" alt=":SkyOnTop" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:SkyOnTop" alt=":SkyOnTop" /></p>

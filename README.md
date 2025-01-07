@@ -10,4 +10,4 @@
 
 <p align="center"><img src="https://count.getloli.com/get/@:SkyOnTop" alt=":SkyOnTop" /></p>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37](https://komarev.com/ghpvc/?username=SkyOnTop)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SkyOnTop)

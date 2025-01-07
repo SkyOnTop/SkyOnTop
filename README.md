@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/SkyOnTop"><img src="https://img.shields.io/github/followers/SkyOnTop?style=for-the-badge"></img></a>
   <a href="https://github.com/SkyOnTop"><img src="https://img.shields.io/github/stars/SkyOnTop?style=for-the-badge"></img></a>
-  <a href="https://github.com/SkyOnTop"><img src="https://komarev.com/ghpvc/?username=SkyOnTop" alt="Profile Views"></a>
 </p>
 
 <p align="center">
